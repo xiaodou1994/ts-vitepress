@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "preinstall": "npx only-allow pnpm",
     "init": "pnpm install && pnpm run docs:build",
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
