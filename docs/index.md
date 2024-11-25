@@ -10,7 +10,7 @@ hero:
       link: /basic
     - theme: alt
       text: View on GitHub
-      link: https://xiaodou1994.github.io/jekyll_demo/
+      link: https://github.com/xiaodou1994/ts-vitepress
 
 features:
     - title: Simple and minimal, always
