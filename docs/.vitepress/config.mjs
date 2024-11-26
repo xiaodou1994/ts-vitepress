@@ -11,9 +11,9 @@ export default defineConfig({
       { text: "基础", link: "/basic/" },
       {
         text: "进阶",
-        link: "/medium",
+        link: "/medium/获取函数返回类型",
       },
-      { text: "困难", link: "/hard" },
+      { text: "困难", link: "/hard/SimpleVue" },
     ],
 
     sidebar: [
