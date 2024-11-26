@@ -16,7 +16,7 @@ type Result = Unshift<[1, 2], 0>; // [0, 1, 2,]
 
 ## 分析
 
-同 [实现 push](/easy/实现Push.md) 一样，扩展操作符，调整位置即可
+同 [实现 push](/basic/实现Push.md) 一样，扩展操作符，调整位置即可
 
 ## 题解
 
